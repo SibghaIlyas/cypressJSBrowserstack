@@ -1,0 +1,13 @@
+1. run the following command to install all the dependencies:
+ npm install
+
+2. run the following command to run cypress tests:
+ npx cypress open  //it will open a cypress window
+
+3. click on any tests to run the cypress tests
+
+4. To run the tests on browserstack, run the following command:
+ npx browserstack-cypress run --sync
+
+5. The tests will start running on browserstack on the selected broswers as mentioned in config file.
+The report can be seen from browserstack-cypress-report.html file

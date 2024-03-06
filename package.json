@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "cypress project",
+  "main": "index.js",
+  "scripts": {
+    "test": "n/a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cypressjavascript"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "sibgha",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.6"
+  },
+  "dependencies": {
+    "uuid": "^7.0.3"
+  }
+}
